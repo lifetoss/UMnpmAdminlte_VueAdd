@@ -1,0 +1,11 @@
+add funtion
+hide modal
+sweetalert
+progress bar
+
+
+
+
+
+
+=========== add vendor and node_modules folder ========
